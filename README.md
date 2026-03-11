@@ -34,7 +34,7 @@ Test Automation Framework Design
 
 📂 Automation Projects
 
-🔹 Selenium E-commerce Automation Framework with End-to-end UI automation using Selenium WebDriver + Java + TestNG with Page Object Model design:
+🔹 Selenium E-commerce Automation Framework with end-to-end UI automation using Selenium WebDriver + Java + TestNG with Page Object Model design:
       • Login 
       • Product search 
       • Add to cart 
