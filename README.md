@@ -9,19 +9,19 @@ Rajagiri College of Social Sciences – Kalamassery, Kerala
 
 🚀 Technical Skills
 
-Automation Testing
+Automation Testing - 
 Selenium WebDriver, Java, TestNG
 
-Build & CI/CD
+Build & CI/CD - 
 Maven, Jenkins
 
-Version Control
+Version Control - 
 Git, GitHub
 
-Automation Design Patterns
-Page Object Model (POM)
-Data-Driven Testing
-Cross-Browser Testing
+Automation Design Patterns - 
+Page Object Model (POM), 
+Data-Driven Testing,
+Cross-Browser Testing,
 Test Automation Framework Design
 
 📚 Currently Learning
