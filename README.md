@@ -30,13 +30,11 @@ Test Automation Framework Design
 
 ✔ CI/CD Integration for Automated Testing
 
-✔ AI-Assisted Test Development using
-GitHub Copilot
+✔ AI-Assisted Test Development using GitHub Copilot
 
 📂 Automation Projects
 
-🔹 Selenium E-commerce Automation Framework
-    End-to-end UI automation covering:
+🔹 Selenium E-commerce Automation Framework with End-to-end UI automation covering:
       • Login 
       • Product search 
       • Add to cart 
