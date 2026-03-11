@@ -25,7 +25,7 @@ QA Automation Engineer | Selenium WebDriver | Java | TestNG | GitHub Copilot
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Upskilling
 - Advanced Selenium Framework Design
 - AI-assisted Test Automation
 - CI/CD for Test Automation
