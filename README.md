@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Shilvy K K
 
-<!--
-**shilvykurian/shilvykurian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer | Selenium WebDriver | Java | TestNG | GitHub Copilot
 
-Here are some ideas to get you started:
+🎓 MCA Graduate – Rajagiri College of Social Sciences  
+💼 Former Advanced Analyst – EY Global Delivery Services  
+📍 Kochi, Kerala, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- Git & GitHub
+- Test Automation Frameworks
+
+---
+
+## 💻 Automation Projects
+- Selenium Login Automation
+- Selenium Java Test Framework
+- AI Assisted Selenium Tests
+
+---
+
+## 🌱 Currently Learning
+- Advanced Selenium Framework Design
+- AI-assisted Test Automation
+- CI/CD for Test Automation
+
+---
+
+## 📫 Connect With Me
+LinkedIn: http://www.linkedin.com/in/shilvy-k-k
