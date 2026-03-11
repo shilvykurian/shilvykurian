@@ -34,20 +34,20 @@ Test Automation Framework Design
 
 📂 Automation Projects
 
-🔹 Selenium E-commerce Automation Framework with end-to-end UI automation using Selenium WebDriver + Java + TestNG with Page Object Model design:
+🔹 Selenium E-commerce Automation Framework with end-to-end UI automation using Selenium WebDriver + Java + TestNG with Page Object Model design:  
       • Login 
       • Product search 
       • Add to cart 
       • Checkout workflow
   
 
-🔹 Selenium CI/CD Automation Pipeline: 
+🔹 Selenium CI/CD Automation Pipeline:  
     Automation test suite integrated with Jenkins CI/CD pipeline for continuous execution and automated reporting.
 
-🔹 AI-Assisted Selenium Test Automation:
+🔹 AI-Assisted Selenium Test Automation: 
     Automation scripts developed with AI assistance using GitHub Copilot and Selenium WebDriver to accelerate test development.
 
-🔹 Selenium Grid Parallel Testing:
+🔹 Selenium Grid Parallel Testing: 
     Cross-browser automated test execution using Selenium Grid for scalable and parallel test runs.
 
 📫 Connect With Me
