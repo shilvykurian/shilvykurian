@@ -44,7 +44,7 @@ Test Automation Framework Design
 🔹 Selenium CI/CD Automation Pipeline:  
     Automation test suite integrated with Jenkins CI/CD pipeline for continuous execution and automated reporting.
 
-🔹 AI-Assisted Selenium Test Automation: 
+🔹 AI-Assisted Selenium Test Automation:   
     Automation scripts developed with AI assistance using GitHub Copilot and Selenium WebDriver to accelerate test development.
 
 🔹 Selenium Grid Parallel Testing:   
