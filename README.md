@@ -34,28 +34,25 @@ Test Automation Framework Design
 GitHub Copilot
 
 📂 Automation Projects
+
 🔹 Selenium E-commerce Automation Framework
+    End-to-end UI automation covering:
+      • Login 
+      • Product search 
+      • Add to cart 
+      • Checkout workflow
 
-End-to-end UI automation covering:
-
-• Login
-• Product search
-• Add to cart
-• Checkout workflow
-
-Built using Selenium WebDriver + Java + TestNG with Page Object Model design.
+  Built using Selenium WebDriver + Java + TestNG with Page Object Model design.
+  
 
 🔹 Selenium CI/CD Automation Pipeline
-
-Automation test suite integrated with Jenkins CI/CD pipeline for continuous execution and automated reporting.
+    Automation test suite integrated with Jenkins CI/CD pipeline for continuous execution and automated reporting.
 
 🔹 AI-Assisted Selenium Test Automation
-
-Automation scripts developed with AI assistance using GitHub Copilot and Selenium WebDriver to accelerate test development.
+    Automation scripts developed with AI assistance using GitHub Copilot and Selenium WebDriver to accelerate test development.
 
 🔹 Selenium Grid Parallel Testing
-
-Cross-browser automated test execution using Selenium Grid for scalable and parallel test runs.
+    Cross-browser automated test execution using Selenium Grid for scalable and parallel test runs.
 
 📫 Connect With Me
 
