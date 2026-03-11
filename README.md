@@ -19,23 +19,16 @@ AI-Assisted Test Development with GitHub Copilot
 🚀 Technical Skills
 
 🔹  Automation Testing
-    - Selenium WebDriver
-    - Java
-    - TestNG
+    - Selenium WebDriver, Java, TestNG
       
 🔹  Build & CI/CD
-    - Maven
-    - Jenkins
+    - Maven, Jenkins
       
 🔹  Version Control
-    - Git
-    - GitHub
+    - Git, GitHub
 
 🔹  Automation Design
-    - Page Object Model (POM)
-    - Data-Driven Testing
-    - Cross-Browser Testing
-    - Test Automation Framework Development
+    - Page Object Model (POM), Data-Driven Testing, Cross-Browser Testing, Test Automation Framework Development
 
 
 📂 Automation Projects
