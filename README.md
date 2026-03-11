@@ -2,7 +2,7 @@ Hi there 👋 I'm Shilvy K K
 
 QA Automation Engineer | Selenium WebDriver | Java | Test Automation Frameworks
 
-🎓 Master of Computer Applications (MCA)
+🎓 Master of Computer Applications (MCA) from 
 Rajagiri College of Social Sciences – Kalamassery, Kerala
 
 💻 Passionate about building robust automation testing frameworks using Selenium WebDriver with Java. Currently developing hands-on automation projects and learning modern QA practices including CI/CD integration and AI-assisted test development.
