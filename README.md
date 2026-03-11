@@ -47,7 +47,7 @@ Test Automation Framework Design
 🔹 AI-Assisted Selenium Test Automation: 
     Automation scripts developed with AI assistance using GitHub Copilot and Selenium WebDriver to accelerate test development.
 
-🔹 Selenium Grid Parallel Testing: 
+🔹 Selenium Grid Parallel Testing:   
     Cross-browser automated test execution using Selenium Grid for scalable and parallel test runs.
 
 📫 Connect With Me
